@@ -1,0 +1,1 @@
+const getAllRecipes = require('../recipe/controller/recipeController')
