@@ -16,5 +16,6 @@ const createRecipe = async (req,res)=>{
 }
 
 module.exports = {
-    getAllRecipes
+    getAllRecipes,
+    createRecipe
 }
